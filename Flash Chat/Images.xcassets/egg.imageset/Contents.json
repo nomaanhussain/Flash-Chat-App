@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+<<<<<<< HEAD
+      "filename" : "egg@2x.png.png",
+=======
+      "filename" : "egg@2x.png",
+>>>>>>> 6b16244d910d3e6a0e435eb65ce95a2ba6bc8164
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "egg@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
